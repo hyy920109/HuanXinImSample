@@ -1,0 +1,6 @@
+include ':easyim'
+include ':easeim'
+include ':easeui'
+include ':player'
+include ':app'
+rootProject.name = "HXImSample"
